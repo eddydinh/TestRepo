@@ -10,7 +10,7 @@ Sound scape in Kettle Valley.
 Branch out.
 
 1. git checkout master
-2. git pull upstream && git push origin master
+2. git pull upstream master && git push origin master
 3. git checkout -b newbranch/name
 
 Create PR

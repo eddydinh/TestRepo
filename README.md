@@ -13,8 +13,6 @@ Branch out.
 2. git pull upstream master && git push origin master
 3. git checkout -b newbranch/name
 
-<<<<<<< HEAD
-
 Create PR
 
 1. git push -u origin newbranch/name
@@ -22,5 +20,3 @@ Create PR
 Create PR
 
 1. git push -u origin newbranch/name
-
-THE END

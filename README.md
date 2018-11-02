@@ -12,3 +12,5 @@ Branch out.
 1. git checkout master
 2. git pull upstream && git push origin master
 3. git checkout -b newbranch/name
+
+Branched out! git 

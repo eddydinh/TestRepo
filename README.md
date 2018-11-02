@@ -18,11 +18,9 @@ Branch out.
 Create PR
 
 1. git push -u origin newbranch/name
-=======
-Branched out! git 
-=======
+
 Create PR
 
 1. git push -u origin newbranch/name
->>>>>>> 6bd8c06cd0b3e6bbedb1e967d2a3a8f3a18c73ba
 
+THE END

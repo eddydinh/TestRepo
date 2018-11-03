@@ -1,5 +1,3 @@
-# soundscape
-Sound scape in Kettle Valley.
 1. git clone
 2. git remote add upstream (original project)
 ----DO WORK-----

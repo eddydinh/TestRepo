@@ -1,0 +1,19 @@
+{
+  "name": "soundscape",
+  "version": "1.0.0",
+  "description": "Sound scape in Kettle Valley.\r 1. git clone\r 2. git remote add upstream (original project)\r ----DO WORK-----\r 3. git add <file>\r 4. git status\r 5. git commit -m",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddydinh/soundscape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddydinh/soundscape/issues"
+  },
+  "homepage": "https://github.com/eddydinh/soundscape#readme"
+}

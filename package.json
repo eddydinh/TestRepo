@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eddydinh/soundscape/issues"
   },
-  "homepage": "https://github.com/eddydinh/soundscape#readme"
+  "homepage": "https://github.com/eddydinh/soundscape#readme",
+  "dependencies": {
+    
+  }
 }
